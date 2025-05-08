@@ -45,7 +45,7 @@
 
 ### Studying in this moment:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Clara-An" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"> 
+  <img align="center" alt="Clara-Dja" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg"> 
   <img align="center" alt="Clara-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
 
